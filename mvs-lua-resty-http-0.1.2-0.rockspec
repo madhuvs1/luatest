@@ -1,7 +1,7 @@
 package = "mvs-lua-resty-http"
 version = "0.1.2-0"
 source = {
-    url = "git://github.com/madhuvs1/mvs-lua-resty-http.git",
+    url = "git://github.com/madhuvs1/luatest.git",
     tag = "main"
 }
 description = {
