@@ -16,6 +16,6 @@ dependencies = {
 build = {
     type = "builtin",
     modules = {
-        ["resty.http"] = "lib/resty/mvshttp.lua"
+        ["resty.mvshttp"] = "lib/resty/mvshttp.lua"
     }
 }
